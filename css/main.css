@@ -71,7 +71,7 @@ header {
  line-height: 0.5;
  text-align: center;
 
-   color: #101884;
+   color: #020740;
 
  }
 
@@ -79,7 +79,7 @@ header {
  font-size: 1.00em;
  font-weight: normal;
  margin: -5px 0 0;
-   color: #df330a;
+   color: #129c32;
  }
 
 
@@ -119,7 +119,7 @@ nav li {
  }
 
 /*PAGE:*/
-.mydiv {background: lightblue; width:250px; height: 250px;}
+.mydiv {background: rgb(206, 182, 182); width:250px; height: 250px;}
 
 .myimage {
     float:left;
@@ -151,19 +151,19 @@ nav li {
 
  /* green header*/
   header {
-   background: #6ab47b;
-   border-color: #599a68;
+   background: #339249;
+   border-color: #217735;
  }
 
 
 
 /* nav background on mobile devices*/
 nav {
-   background: #599a6b;
+   background: #8fc89f;
 }
 
 nav a, nav a:visited {
-	color: #fff;
+	color: #ffffff;
 }
 
 /* selected nav link color*/
